@@ -1,0 +1,1 @@
+{"depth": 2, "num_threads": 15, "include_subdomains": false, "respect_robots": true, "recursive": false, "user_agent": "", "proxy": "", "username": "", "password": "", "url_patterns": "", "rate_limit": 1, "include_dns": false, "include_whois": false}
